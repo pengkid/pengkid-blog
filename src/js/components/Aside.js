@@ -52,14 +52,14 @@ export default class Aside extends React.Component {
                     <div className="mdl-tooltip mdl-tooltip--top" htmlFor="GitHub-social-icon">GitHub</div>
                 
                     <div className="link-icon">
-                        <a id="CodePen-social-icon" className="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon social-btn mdl-color-text--black" href="https://codepen.io/xiaoxiyao" target="_blank" rel="me">
+                        <a id="CodePen-social-icon" className="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon social-btn mdl-color-text--black" href="https://www.nowcoder.com/profile/7411361" target="_blank" rel="me">
                             <i className='iconfont icon-codepen'></i>
                         </a>
                     </div>
-                    <div className="mdl-tooltip mdl-tooltip--top" htmlFor="CodePen-social-icon">CodePen</div>
+                    <div className="mdl-tooltip mdl-tooltip--top" htmlFor="CodePen-social-icon">Nowcoder</div>
                 
                     <div className="link-icon">
-                        <a id="Google&#43;-social-icon" className="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon social-btn mdl-color-text--red" href="https://plus.google.com/103579200356573263980" target="_blank" rel="me">
+                        <a id="Google&#43;-social-icon" className="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon social-btn mdl-color-text--red" href="https://plus.google.com/u/0/" target="_blank" rel="me">
                             <i className='iconfont icon-googleplus'></i>
                         </a>
                     </div>

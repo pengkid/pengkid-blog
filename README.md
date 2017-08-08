@@ -6,7 +6,7 @@
 
 在线地址请点击这里： [在线地址](http://pengkid.com)
 
-开源代码请点击这里： [github地址](https://github.com/wtfjun/chenxj-blog) 
+开源代码请点击这里： [github地址](https://github.com/pengkid/pengkid-blog) 
 
 * 功能还有待完善。
 
