@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-// images
+// image
 import pengkid from '../../images/pengkid.jpeg'
 
 export default class Aside extends React.Component {
