@@ -72,7 +72,7 @@ export default function(Router) {
       try {
         const decoded = jwt.verify(token, 'secret')
         // 不是admin，没有发文章的权限
-        if(decoded.name === 'admin') {
+        if(decoded.name === 'pengkid') {
           try {
             const article = await ArticleModel.findOne({ _id }).exec()
             if(article) {
