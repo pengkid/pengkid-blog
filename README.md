@@ -115,9 +115,3 @@ componentDidMount() {
   }
 ```
 
-让nodejs支持es6，注意：nodejs支持async／await的话要8.0以上
-```js
-require('babel-core/register')
-require('babel-polyfill')
-require('./app')
-```
